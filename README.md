@@ -1,1 +1,1 @@
-# landmark-classification_
+# udacity-landmark-classification
